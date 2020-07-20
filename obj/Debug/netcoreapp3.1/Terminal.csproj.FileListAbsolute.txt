@@ -1,0 +1,13 @@
+C:\Users\Chris\source\repos\Terminal\Terminal\obj\Debug\netcoreapp3.1\Terminal.AssemblyInfoInputs.cache
+C:\Users\Chris\source\repos\Terminal\Terminal\obj\Debug\netcoreapp3.1\Terminal.AssemblyInfo.cs
+C:\Users\Chris\source\repos\Terminal\Terminal\obj\Debug\netcoreapp3.1\Terminal.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\Terminal\Terminal\bin\Debug\netcoreapp3.1\Terminal.exe
+C:\Users\Chris\source\repos\Terminal\Terminal\bin\Debug\netcoreapp3.1\Terminal.deps.json
+C:\Users\Chris\source\repos\Terminal\Terminal\bin\Debug\netcoreapp3.1\Terminal.runtimeconfig.json
+C:\Users\Chris\source\repos\Terminal\Terminal\bin\Debug\netcoreapp3.1\Terminal.runtimeconfig.dev.json
+C:\Users\Chris\source\repos\Terminal\Terminal\bin\Debug\netcoreapp3.1\Terminal.dll
+C:\Users\Chris\source\repos\Terminal\Terminal\bin\Debug\netcoreapp3.1\Terminal.pdb
+C:\Users\Chris\source\repos\Terminal\Terminal\obj\Debug\netcoreapp3.1\Terminal.dll
+C:\Users\Chris\source\repos\Terminal\Terminal\obj\Debug\netcoreapp3.1\Terminal.pdb
+C:\Users\Chris\source\repos\Terminal\Terminal\obj\Debug\netcoreapp3.1\Terminal.genruntimeconfig.cache
+C:\Users\Chris\source\repos\Terminal\Terminal\obj\Debug\netcoreapp3.1\Terminal.csprojAssemblyReference.cache
